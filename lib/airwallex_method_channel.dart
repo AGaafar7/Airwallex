@@ -13,6 +13,8 @@ class MethodChannelAirwallex extends AirwallexPlatform {
   @visibleForTesting
   final methodChannel = const MethodChannel('airwallex');
 
+  //Start payment flow
+
   @override
   Future<String> initialize(
       bool logging, String environment, List<String> componentProvider) async {
