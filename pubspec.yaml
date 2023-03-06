@@ -1,6 +1,6 @@
 name: airwallex
-description: Airwallex Plugin.
-version: 0.0.1
+description: A plug-in to add support for airwallex on Flutter applications.
+version: 0.0.2
 homepage: https://github.com/AGaafar7/Airwallex
 
 environment:
@@ -13,6 +13,8 @@ dependencies:
   plugin_platform_interface: ^2.0.2
   #http to interact with airwallex api
   http: ^0.13.4
+  #webview to interact with web
+  webview_flutter: ^4.0.6
 
 dev_dependencies:
   flutter_test:
