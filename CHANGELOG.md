@@ -1,3 +1,5 @@
-## 0.0.1
+## 0.0.2
 
-* TODO: Describe initial release.
+* Initial release: A plugin to deal with Airwallex platform
+
+* Edited the README.md to make it more clear
